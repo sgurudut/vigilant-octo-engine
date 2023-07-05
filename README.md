@@ -1,4 +1,4 @@
-# vigilant-octo-engine
+# vigilant-octo-engine #  Big Mart Data # EDA # Various Models # Gradient Boosting # RMSE
 
 The goal of this project was to predict the item sales for Big Mart Sales data. 
 Using this data set Exploratory Data Analysis (EDA) was performed along with building various models and comparing them.
